@@ -1,4 +1,4 @@
-package com.zlatopolskii;
+package com.strings;
 
 public class ZlatopolskiiSolver {
     public void thirdSymbolExtractor(String line) {

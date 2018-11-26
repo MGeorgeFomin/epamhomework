@@ -1,4 +1,4 @@
-package com.homework;
+package com.trafficlights;
 
 public class TrafficLight {
     private String redLight = "RED";
