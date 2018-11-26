@@ -1,6 +1,6 @@
 package com.strings;
 
-public class ZlatopolskiiSolver {
+public class StringsTasksSolver {
     public void thirdSymbolExtractor(String line) {
         System.out.println("Third symbol: " + line.toCharArray()[2]);
     }
