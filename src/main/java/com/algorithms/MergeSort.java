@@ -6,7 +6,7 @@ package com.algorithms;
  * @author George Fomin
  * @version 1.0
  */
-public class MergeSort {
+public class MergeSort implements Sorter {
     private int[] inputArray;
     private int[] helperArray;
 

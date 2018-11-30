@@ -6,7 +6,7 @@ package com.algorithms;
  * @author George Fomin
  * @version 1.0
  */
-public class BubbleSort {
+public class BubbleSort implements Sorter {
     /**
      * Method which initialise bubbleSort
      *

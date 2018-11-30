@@ -1,6 +1,12 @@
 package com.algorithms;
 
-public class QuickSort {
+/**
+ * QuickSort
+ *
+ * @author George Fomin
+ * @version 1.0
+ */
+public class QuickSort implements Sorter {
 
     /**
      * Method which initialise quick sort
